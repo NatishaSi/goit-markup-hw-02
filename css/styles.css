@@ -148,8 +148,8 @@ a.mail,a.tel {
 }
 .position {
     color: var(--secondary-text-color);
-    font-weight: 400;
     text-align: center;
+    font-weight: 400;
 }
 /*Footer*/
 footer {
